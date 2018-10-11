@@ -2,3 +2,15 @@
 ---
 
 @import "{{ site.theme }}";
+
+#main-content {
+  background: #1a1a1a;
+}
+
+.width-fill {
+  width: -webkit-fill-available;  
+}
+
+.height-fill {
+  height: -webkit-fill-available;  
+}
