@@ -14,13 +14,24 @@
 }
 
 .div-round {
-  border-radius: 100px;
+  border-radius: 3rem;
 }
 
 .zoom {
   left: 65rem;
   top: 5rem;
   zoom: 0.5;  
+}
+
+.left-space {
+  margin-left: 3rem;
+}
+
+.nav {
+  float: right;
+  left: -15rem;
+  top: 1.5rem;
+  position: relative;
 }
 
 a {
