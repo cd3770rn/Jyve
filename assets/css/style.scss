@@ -23,6 +23,21 @@
   zoom: 0.5;  
 }
 
+a {
+  color: #4fb5ce;
+  text-transform: capitalize;
+  font-size: 0.8rem;
+}
+
+a:hover {
+    text-decoration: none;
+    cursor: pointer;
+}
+
+a, h1 {
+  font-family: 'Pragati Narrow', sans-serif;
+}
+
 .width-fill {
   width: -webkit-fill-available;  
 }
