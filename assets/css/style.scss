@@ -3,9 +3,24 @@
 
 @import "{{ site.theme }}";
 
-#main-content {
-  background-image: linear-gradient(to bottom right, #ef0a67, #120a3d);
+.content-background {
+    
+}
+
+.content-container {
+  background-image: linear-gradient(to bottom right, #ef0a67, #2b0a72, #120a3d);
   height: 510px;
+}
+
+.div-round {
+  border-radius: 100px;
+  margin: 2.5rem 5rem 0 5rem;
+}
+
+.zoom {
+  left: 65rem;
+  top: 5rem;
+  zoom: 0.5;  
 }
 
 .width-fill {
