@@ -38,6 +38,7 @@ a {
   color: #4fb5ce;
   text-transform: capitalize;
   font-size: 0.9rem;
+  font-weight: 200;
 }
 
 a:hover {
@@ -45,9 +46,12 @@ a:hover {
   cursor: pointer;
 }
 
-a, h1 {
+a, h1, p {
   font-family: 'Raleway', sans-serif;
-  font-weight: 200;
+}
+
+h1 {
+  font-weight: 900;
 }
 
 .width-fill {
