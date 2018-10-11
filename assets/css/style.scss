@@ -10,6 +10,7 @@
 
 .content-container {
   background-image: linear-gradient(to bottom right, #ef0a67, #2b0a72, #120a3d);
+  box-shadow: 0 5px 5px rgba(0, 0, 0, 0.1);
   height: 510px;
 }
 
@@ -30,7 +31,7 @@
 
 .zoom {
   left: 65rem;
-  top: 5rem;
+  top: -8rem;
   zoom: 0.5;  
 }
 
