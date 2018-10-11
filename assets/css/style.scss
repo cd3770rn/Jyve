@@ -4,7 +4,8 @@
 @import "{{ site.theme }}";
 
 #main-content {
-  background: #1a1a1a;
+  background-image: linear-gradient(to bottom right, #ef0a67, #120a3d);
+  height: 510px;
 }
 
 .width-fill {
